@@ -1,36 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the GeMVi project WP3: Genomic sequencing and bioinformatics capacity and development Pages
 
-You can use the [editor on GitHub](https://github.com/gemvi/Bioinformatics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this WP, we will:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - Enhance KWTRP capacity to become a leader in virus genomics in East Africa. We will also be strengthening links between, and capacity of, KWTRP, UVRI and KCRI, establishing a regional hub for virus pathogen genomics. 
 
-### Markdown
+ - Build on existing capacity. Enhance the Kilifi-Bioinformatics department through technical appointments and hardware and software upgrading to a required level of computing capability for expected increased users. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Develop joint bioinformatic and epidemiology pipelines. Develop pipelines for processing and analysis of short read data for virus pathogens which feed directly into epidemiological inference. Open source software will be used. 
 
-```markdown
-Syntax highlighted code block
+- Use new sequencing formats. Develop use and transfer of new sequence technology. In particular the compact Oxford Nanopore real-time sequencer (set up at KWTRP in Kenya); a relative low-cost option highly suited to outbreak investigation (12). 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gemvi/Bioinformatics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
